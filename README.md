@@ -62,75 +62,38 @@
 <td>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 57 Contributions in the Year 2022
+> 🏆 232 Contributions in the Year 2022
  > 
-> 📦 9.1 kB Used in GitHub's Storage 
+> 📦 299.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 10 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 24 Private Repositories  
  > 
-**I'm an Early 🐤** 
+**I Mostly Code in Go** 
 
 ```text
-🌞 Morning    22 commits     ████████████░░░░░░░░░░░░░   48.89% 
-🌆 Daytime    20 commits     ███████████░░░░░░░░░░░░░░   44.44% 
-🌃 Evening    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       9 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     33 commits     ██████████████████░░░░░░░   73.33% 
-Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Go                       21 repos            ██████████████████████░░░   91.3% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**Timeline**
 
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       30 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-GoLand                   30 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-rdm                      27 mins             ██████████████████████░░░   91.1% 
-viper                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
-mapstructure             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
-
-💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in SCSS** 
-
-```text
-SCSS                     1 repo              █████████████████████████   100.0%
-
-```
+![Chart not found](https://raw.githubusercontent.com/betterfor/betterfor/main/charts/bar_graph.png) 
 
 
-
+ Last Updated on 19/09/2022 07:07:20 UTC
 <!--END_SECTION:waka-->  
   
 </td>  
