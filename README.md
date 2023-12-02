@@ -66,7 +66,7 @@
 
 > 📦 285.7 kB Used in GitHub's Storage 
  > 
-> 🏆 537 Contributions in the Year 2023
+> 🏆 538 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,45 +74,6 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                949 commits         █████████████░░░░░░░░░░░░   50.64 % 
-🌆 Daytime                489 commits         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌃 Evening                429 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   370 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Tuesday                  359 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Wednesday                302 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Thursday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Friday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Saturday                 137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Sunday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -128,7 +89,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/betterfor/betterfor/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 01:28:31 UTC
+ Last Updated on 02/12/2023 01:18:45 UTC
 <!--END_SECTION:waka-->  
   
 </td>  
