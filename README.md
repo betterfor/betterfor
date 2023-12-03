@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 285.7 kB Used in GitHub's Storage 
  > 
-> 🏆 538 Contributions in the Year 2023
+> 🏆 539 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,6 +74,45 @@
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                951 commits         █████████████░░░░░░░░░░░░   50.69 % 
+🌆 Daytime                489 commits         ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+🌃 Evening                429 commits         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   370 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Tuesday                  359 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Wednesday                302 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Thursday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Friday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Saturday                 138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Sunday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -89,7 +128,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/betterfor/betterfor/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2023 01:18:45 UTC
+ Last Updated on 03/12/2023 01:25:14 UTC
 <!--END_SECTION:waka-->  
   
 </td>  
