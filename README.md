@@ -62,11 +62,15 @@
 <td>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2055%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 305.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 273 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,6 +78,45 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1609 commits        ████████████████░░░░░░░░░   63.07 % 
+🌆 Daytime                492 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+🌃 Evening                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   465 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  453 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Wednesday                399 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 375 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Friday                   325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Saturday                 233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Sunday                   301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -90,7 +133,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/betterfor/betterfor/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 01:53:01 UTC
+ Last Updated on 18/09/2025 01:53:38 UTC
 <!--END_SECTION:waka-->  
   
 </td>  
