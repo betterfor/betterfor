@@ -62,13 +62,15 @@
 <td>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2055%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 305.3 kB Used in GitHub's Storage 
+> 📦 305.4 kB Used in GitHub's Storage 
  > 
-> 🏆 283 Contributions in the Year 2025
+> 🏆 284 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,6 +78,45 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1620 commits        ████████████████░░░░░░░░░   63.23 % 
+🌆 Daytime                492 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌃 Evening                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   467 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  454 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Wednesday                400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Thursday                 376 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Friday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Saturday                 235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Sunday                   303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -92,7 +133,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/betterfor/betterfor/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 02:05:26 UTC
+ Last Updated on 29/09/2025 01:59:07 UTC
 <!--END_SECTION:waka-->  
   
 </td>  
