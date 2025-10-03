@@ -62,15 +62,13 @@
 <td>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 305.4 kB Used in GitHub's Storage 
  > 
-> 🏆 287 Contributions in the Year 2025
+> 🏆 288 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,45 +76,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1623 commits        ████████████████░░░░░░░░░   63.27 % 
-🌆 Daytime                492 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-🌃 Evening                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   467 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Tuesday                  455 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Wednesday                401 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Thursday                 377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Friday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Saturday                 235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Sunday                   303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -133,7 +92,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/betterfor/betterfor/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 01:54:15 UTC
+ Last Updated on 03/10/2025 01:53:42 UTC
 <!--END_SECTION:waka-->  
   
 </td>  
