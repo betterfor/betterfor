@@ -62,15 +62,13 @@
 <td>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2055%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 308.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,45 +76,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1715 commits        ████████████████░░░░░░░░░   64.55 % 
-🌆 Daytime                492 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-🌃 Evening                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   480 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Tuesday                  468 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Wednesday                414 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Thursday                 390 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Friday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Sunday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -132,7 +91,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/betterfor/betterfor/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 02:21:45 UTC
+ Last Updated on 03/01/2026 02:08:59 UTC
 <!--END_SECTION:waka-->  
   
 </td>  
